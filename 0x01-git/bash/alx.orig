@@ -2,8 +2,22 @@
 <<<<<<< HEAD
 #!/bin/bash\necho "ALX School is so cool!"
 =======
+=======
+<<<<<<<< HEAD:0x01-git/bash/alx.orig
+<<<<<<< HEAD
+>>>>>>> c03980c8dc95bca37d417f535c57c6c8b880fb5c
+<<<<<<< HEAD
+#!/bin/bash\necho "ALX School is so cool!"
+=======
 #!/bin/bash\necho "ALX School"
 >>>>>>> update_script
+<<<<<<< HEAD
+>>>>>>> master
+=======
 =======
 #!/bin/bash\necho "ALX School is so cool! School is so cool!"
 >>>>>>> 001dfb248eb4cea8a080ff03eea1effb46947dfc
+========
+#!/bin/bash\necho "ALX School is so cool! School is so cool!"
+>>>>>>>> c03980c8dc95bca37d417f535c57c6c8b880fb5c:0x01-git/bash/alx
+>>>>>>> c03980c8dc95bca37d417f535c57c6c8b880fb5c
